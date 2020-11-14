@@ -1,0 +1,35 @@
+h1{
+    color:aquamarine;
+    font-size:50px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:#444444;
+}
+h2{
+    color:antiquewhite;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:#297082;
+}
+table{
+    font-size:20px;
+    font-weight:bold;
+    font-family:Impact;
+    background-color:coral
+}
+body{
+        background-image:url(../images/ダウンロード.jpg);
+        background-repeat:repeat
+        background-attachment:fixed;
+    }
+ol{
+    background-image:url(../images/images1.jpg);
+}
+a{
+    color:cornflowerblue;
+    font-weight:bold;
+    font-family:Impact;
+}
