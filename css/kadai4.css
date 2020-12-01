@@ -1,0 +1,44 @@
+/*pタグのの中でもbluecolorのものだけ装飾*/
+p.bluecolor{
+    color:blue;
+}
+
+h1#oomidasi{
+    color:coral;
+    font-size:50px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:cadetblue;
+}
+
+h2#midasi{
+    color:antiquewhite;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:#297082;
+}
+
+h2#midasi2{
+    color:green;
+    font-size:30px;
+    text-align:center;
+     background-color:beige;
+}
+
+h1#oomidasi2{
+    color:blue;
+    font-size:50px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:darkgrey;
+}
+
+body{
+    background-image:url(../images/ダウンロード.jpg);
+        background-repeat:repeat
+        background-attachment:fixed;
+}

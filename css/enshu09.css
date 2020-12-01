@@ -1,0 +1,30 @@
+/*pタグのの中でもbluecolorのものだけ装飾*/
+p.bluecolor{
+    color:blue;
+}
+
+h1#oomidasi{
+    font-family:impact;
+    font-size 60px;
+    text-align:center;
+}
+
+h2#midasi{
+    color:antiquewhite;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Impact;
+    text-align:center;
+    background-color:#297082;
+}
+
+h2#midasi2{
+    color:green;
+    font-size:30px;
+    text-align:center;
+     background-color:beige;
+}
+
+h2:hover{
+    background-color:aqua
+}
