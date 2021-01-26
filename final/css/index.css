@@ -1,0 +1,251 @@
+div.wrap{
+    font-size:0;
+    width:1250px;
+    height:1000px;
+    background-image: url(../images/haikei.jpg);
+    margin: 0px auto;
+}
+
+div.wrap2{
+    font-size:0;
+    width:1250px;
+    height:1200px;
+    background-image: url(../images/haikei.jpg);
+    margin: 0px auto;
+}
+
+div.title{
+    font-size:50;
+    color:aqua;
+    background-color: black;
+    text-align:center;
+}
+
+div.futi{
+    display:inline-block;
+    vertical-align:top;
+    width:125;
+    height:437.5;
+    background-image: url(../images/green_00048.jpg);
+}
+
+div.futi2{
+    display:inline-block;
+    vertical-align:top;
+    width:125;
+    height:538;
+    background-image: url(../images/green_00048.jpg);
+}
+
+div.yohaku{
+    display:inline-block;
+    vertical-align:top;
+    width:125;
+    height:50;
+    background-image: url(../images/img1.jfif);
+}
+
+div.menu1-1{
+    display:inline-block;
+    vertical-align:top;
+    font-size:25px;
+    width:250;
+    height:50;
+    background-image: url(../images/img1.jfif);
+    text-align:center;
+}
+
+div.menu1-2{
+    display:inline-block;
+    vertical-align:top;
+    font-size:25px;
+    width:250;
+    height:50;
+    background-image: url(../images/img1.jfif);
+    text-align:center;
+}
+
+div.menu1-3{
+    display:inline-block;
+    vertical-align:top;
+    font-size:25px;
+    width:250;
+    height:50;
+    background-image: url(../images/img1.jfif);
+    text-align:center;
+}
+
+div.menu1-4{
+    display:inline-block;
+    vertical-align:top;
+    font-size:25px;
+    width:250;
+    height:50;
+    background-image: url(../images/img1.jfif);
+    text-align:center;
+}
+
+div.car{
+    display:inline-block;
+    vertical-align:top;
+    width:652;
+    height:352;
+    background-image: url(../images/rx.jpg);
+    margin: 70px 174px 0px 174px;  
+}
+
+div.singeki{
+    display:inline-block;
+    vertical-align:top;
+    width:189;
+    height:267;
+    background-image: url(../images/singeki.jfif);
+    margin: 40px 81px 0px 30px;  
+}
+
+div.under{
+    display:inline-block;
+    vertical-align:top;
+    width:700;
+    height:400;
+    background-color: white;
+}
+
+div.under2{
+    display:inline-block;
+    vertical-align:top;
+    width:500;
+    height:170;
+    background-color: white;
+    margin: 20px 20px 0px 30px;
+}
+
+div.h1{
+    color:cadetblue;
+    display:inline-block;
+    vertical-align:top;
+    width:200;
+    height:30;
+    font-size:40px;
+    margin: 20px 0px 0px 30px;
+}
+
+div.h2{
+    color:red;
+    display:inline-block;
+    vertical-align:top;
+    width:600;
+    height:0;
+    font-size:20px;
+    margin: 40px 0px 300px 60px;
+}
+
+div.jujutsukaisen{
+    display:inline-block;
+    vertical-align:top;
+    width:420;
+    height:236;
+    background-image: url(../images/jujutsukaisen.jpg);
+    margin: 30px 0px 0px 30px;  
+}
+
+div.h3{
+    display:inline-block;
+    vertical-align:top;
+    color:cadetblue;
+    width:200;
+    height:50;
+    font-size:40px;
+    margin: 0px 0px 0px 30px;  
+}
+
+div.h4{
+    color:red;
+    width:460;
+    height:10;
+    font-size:20px;
+    margin: 0px 0px 0px 0px;
+}
+
+a{
+    color:darkorange;
+}
+
+div.niziu{
+     display:inline-block;
+    vertical-align:top;
+    width:470;
+    height:465;
+    background-image: url(../images/niziu.jpg);
+    margin: 0px 0px 0px 30px;  
+}
+
+div.sita{
+    display:inline-block;
+    vertical-align:top;
+    width:430;
+    height:225;
+    background-color:white;
+    margin:50px 20px 0px 50px; 
+    font-size:40;
+    color:red;
+}
+
+div.sita2{
+    display:inline-block;
+    vertical-align:top;
+    width:600;
+    height:225;
+    background-color:white;
+    margin: 0px 0px 0px 30px; 
+    font-size:40;
+    color:red;
+}
+
+p{
+    font-size:20;
+    color:green;
+}
+
+div.hyou1{
+    display:inline-block;
+    vertical-align:top;
+    font-size:0px;
+    background-color:coral;
+    margin: 50px 207px 0px 175px;  
+}
+
+tr{
+    font-size:40;
+}
+
+div.twitter{
+    margin: 120px 0px 0px 200px;  
+}
+
+div.DISH{
+    display:inline-block;
+    vertical-align:top;
+    width:466;
+    height:462;
+    background-image: url(../images/DISH.jpg);
+    margin: 0px 4px 0px 30px;  
+}
+
+div.Nadal{
+     display:inline-block;
+    vertical-align:top;
+    width:660;
+    height:300;
+    margin: 80px 170px 0px 170px;
+    background-image: url(../images/rafael_nadal_660x300.jpg);
+}
+
+div.rafa{
+     display:inline-block;
+    vertical-align:top;
+    width:320;
+    height:219;
+    margin: 80px 30px 0px 20px;
+    background-image: url(../images/rafa.jpg);
+}
